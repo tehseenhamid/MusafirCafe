@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- TODO: replace example.com with the real domain -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.example.com/</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://www.example.com/img/night-exterior-776.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.example.com/img/evening-benches-776.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.example.com/img/sunset-crowd-776.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.example.com/img/drinks-table-776.webp</image:loc></image:image>
+  </url>
+</urlset>
